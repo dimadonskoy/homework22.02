@@ -6,9 +6,9 @@
 
 ## Overview
 
-Book - Linux Fundamentals
+- Book - Linux Fundamentals
 
-Linux practice (27-35) .
+- Linux practice (27-35) .
 
 ## Contact
 
