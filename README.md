@@ -1,5 +1,9 @@
 # Homework 22.02
 
+## Requirements
+
+- Bash
+
 ## Overview
 
 Book - Linux Fundamentals
