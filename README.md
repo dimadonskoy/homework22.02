@@ -2,7 +2,9 @@
 
 ## Overview
 
-Homework - (27-35) . Linux .
+Book - Linux Fundamentals
+
+Linux practice (27-35) .
 
 ## Contact
 
